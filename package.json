@@ -1,0 +1,20 @@
+{
+  "name": "chile-georegionalizacion",
+  "version": "0.0.1",
+  "description": "API GeoRegional Regiones - Provincias - Comunas de Chile",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "keywords": [
+    "chile",
+    "api",
+    "regiones",
+    "comunas"
+  ],
+  "author": "@juanbrujo",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.9.6"
+  }
+}
